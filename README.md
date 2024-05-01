@@ -1,6 +1,6 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - Blog preview card solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -17,11 +17,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./assets/images/screenshot.png)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://angelcoronait.github.io/FM-QRChallenge/)
+- Live Site URL: [Add live site URL here](https://angelcoronait.github.io/FM-BlogPreviewCard/)
 
 ## My process
 
@@ -33,11 +33,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-I'm really rusty on css so this was a good refresh on how flexbox.
+I fix problems i had in the last challenge, now i added the roles,import correctly the font.
 
 ### Continued development
 
-I would get familiar with flexbox, grid and how to manage the text since i wasn't able to make the title text look exactly like the challenge asked for.
+I would get familiar with flexbox, grid and get comfortable with css properties like box-shadow
 
 ## Author
 
